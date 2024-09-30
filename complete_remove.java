@@ -1,3 +1,5 @@
+ //Code to completely remove any number from an array
+
 package Java;
 
 import java.util.Scanner;
